@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido como parte do desafio da DIO utilizando o NotebookLM como ferramenta de aprendizagem ativa e organização do conhecimento.
 
-O tema escolhido foi Educação Financeira para Iniciantes, pois é um assunto de interesse pessoal  onde sempre busquei independência financeira de grande importância para a construção de uma vida financeira.
+O tema escolhido foi Educação Financeira para Iniciantes, pois é um assunto de interesse pessoal  onde sempre busquei independência financeira  e de grande importância para a construção de uma vida financeira.
 
 ### Objetivos
 
